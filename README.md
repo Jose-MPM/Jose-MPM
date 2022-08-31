@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   <br>
   🌱 I’m currently learning about BackEnd Web Development, Machine Learning and things related to AI.
   <br>
-  :world: I know that I can't change the world, change is generational and I'm seek to collaborate on. 
+  I know that I can't change the world, change is generational and I'm seek to collaborate on. 
   <br>
    🤔 I’m looking for help with cibersegurity, show me 
    <br>
-   I love program and in my live I looking learn all I can, and not only thing related with computer science 💻
+   I love program and in my live I looking learn all I can, and not only thing related with computer science. 💻
   <br>
 </p>
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 https://www.linkedin.com/in/jos%C3%A9-manuel-pedro-m%C3%A9ndez-7097b7215/
 
 
-<h2 align="center">🤓 Repositorys 👨‍💻</h2>
+<h2 align="center">🤓 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
