@@ -86,13 +86,13 @@ https://www.linkedin.com/in/jos%C3%A9-manuel-pedro-m%C3%A9ndez-7097b7215/
 
 <hr>
 
-<h3 align="left">Connect with me 📝:</h3>
+<h3 align="left">📢 Connect with me 📝:</h3>
 <p align="left">
 <a href="https://instagram.com/ntoryb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntoryb" height="30" width="40" /></a>
 </p>
 
 ------
-## Expressions of gratitude 🎁
-* Share and tell others about this notes 📢
+## :godmode: Expressions of gratitude 🎁 
+* :+1: Contact and follow me :bowtie::punch:
 ------
-⌨️ con ❤️ por [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️
+⌨️ with much :purple_heart: by [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️:trollface:
