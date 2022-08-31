@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - :octocat:
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F724A9&size=35&width=950&lines=Hola+Soy+Jose+Manuel!;Estudiante+De+Ciencias+De+La+Computación;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F724A9&size=35&width=950&lines=Hi!!!+I+Am+Jose+Manuel!;Data+Computer+Student;Improve+your+life)](https://git.io/typing-svg)
 
 <p align="center">
   🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. 🔬
