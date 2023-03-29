@@ -1,38 +1,31 @@
-<!--
-**Kary-AG/Kary-AG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jose-MPM.Jose-MPM">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- :octocat:
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F724A9&size=35&width=950&lines=Hi!!!+I'm+%20Jose+%20Manuel!;Computer+Science+Student;Improve+your+life)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F724A9&size=35&width=950&lines=Hi!!!+I+Am+Jose+Manuel!;Data+Computer+Student;Improve+your+life)](https://git.io/typing-svg)
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/josé-manuel-pedro-méndez-7097b7215/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/ntoryb/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
 <p align="center">
   🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. 🔬
   <br>
   <br>
-  🌱 I’m currently learning about BackEnd Web Development, Machine Learning and things related to AI.
+  🌱 I’m currently learning about Network Computers, Machine Learning and things related to Compilers and Cryptology and Cybersecurity.
   <br>
   I know that I can't change the world, change is generational and I'm seek to collaborate on. 
   <br>
-   🤔 I’m looking for help with cibersegurity, show me 
+   🤔 I’m looking to meet great people.
    <br>
    I love program and in my live I looking learn all I can, and not only thing related with computer science. 💻
   <br>
+  <br>
+  📫 How to reach me: <a href="mailto: jose_manuel@ciencias.unam.mx">jose_manuel@ciencias.unam.mx</a>
 </p>
 
 
 <hr>
-<h2 align="center"> Programming Languages and Tools</h2>
+<h2 align="center"> 🔥 Programming Languages and Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
@@ -43,9 +36,11 @@ Here are some ideas to get you started:
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>🔥
   <code><img title="GitLab" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/gitlab.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Spring Tools Site 4 " height="25" src="images/spring-4.png"></code>
 </p>
 
 
@@ -67,10 +62,8 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Jose-MPM&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jose-MPM&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-https://www.linkedin.com/in/jos%C3%A9-manuel-pedro-m%C3%A9ndez-7097b7215/
-
 
 <h2 align="center">🤓 Repositories 👨‍💻</h2>
 <br>
@@ -90,6 +83,11 @@ https://www.linkedin.com/in/jos%C3%A9-manuel-pedro-m%C3%A9ndez-7097b7215/
 <p align="left">
 <a href="https://instagram.com/ntoryb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntoryb" height="30" width="40" /></a>
 </p>
+
+
+<h4 align="center">
+  <a href="https://github.com/Jose-MPM?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 ------
 ## :godmode: Expressions of gratitude 🎁 
