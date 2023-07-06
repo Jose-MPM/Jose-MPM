@@ -3,7 +3,7 @@
 <div align="center">
 <p>
 <a href="https://github.com/Jose-MPM">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Hi%21+I%27m+%20Jose+%20Manuel%21%3B%0AComputer+Science+Student+%7C+Improve+your+life%21%3B%0AAI+%7C+Cybersecurity+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Hi%21+I%27m+%20Jose+%20Manuel%21%3B%0AComputer+Science+Student+%7C+Improve+your+life%21%3B%0AAI+%7C+Cybersecurity+%7C" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -30,19 +30,26 @@
 </div>
 
 <p align="center">
-  🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. 🔬
+  🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. GPA: **9.47**/10 (86.7%) :telescope:
   <br>
   <br>
-  🌱 I’m currently learning about Network Computers, Machine Learning and things related to Compilers and Cryptology and Cybersecurity.
+  🌱 I’m currently improving my English skills and  learning about Network Computers, Neuronal Networks and things related to Web Development and Cibersecurity.  :pushpin:
+  <br>
+  <br>
+  :microscope: I want to learn about AI, robotics and cybersecurity. :chart_with_upwards_trend:
+  <br>
+  <br>
+  :high_brightness: I have already taken my first steps in :bulb: Network Computers, Machine Learning and AI, Cryptology, Compilers and I learned about operating systems by getting my hands on the OS PINTOS.
   <br>
   I know that I can't change the world, change is generational and I'm seek to collaborate on. 
   <br>
-   🤔 I’m looking to meet great people.
+   :diamonds: I’m looking to meet great people. Write me! :gem:
    <br>
-   I love program and in my live I looking learn all I can, and not only thing related with computer science. 💻
+   :airplane: I love program and in my live I looking learn all I can, and not only thing related with computer science. 💻
   <br>
+  
   <br>
-  📫 How to reach me: <a href="mailto: jose_manuel@ciencias.unam.mx">jose_manuel@ciencias.unam.mx</a>
+</a>
 </p>
 
 
@@ -84,7 +91,7 @@
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jose-MPM&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 </p>
 
 <h2 align="center">🤓 Repositories 👨‍💻</h2>
@@ -99,17 +106,17 @@
 </div>
 <br><br><br>
 
-<hr>
-
-<h3 align="left">📢 Connect with me 📝:</h3>
-<p align="left">
-<a href="https://instagram.com/ntoryb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntoryb" height="30" width="40" /></a>
-</p>
-
-
 <h4 align="center">
   <a href="https://github.com/Jose-MPM?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<hr>
+<h3 align="left">📢 Connect with me 📝:</h3>
+<p align="left">
+<a href="https://instagram.com/ntoryb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntoryb" height="30" width="40" /></a>
+
+- 📫 How to reach me: <a href="mailto: jose_manuel@ciencias.unam.mx">jose_manuel@ciencias.unam.mx
+</p>
 
 ------
 ## :godmode: Expressions of gratitude 🎁 
