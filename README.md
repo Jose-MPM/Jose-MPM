@@ -2,11 +2,8 @@
 
 <p align="center">
 <a href="https://github.com/Jose-MPM">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&color=840EF7&lines=Hi!!!+I'm+%20Jose+%20Manuel!;
-    Computer+Science+Student+%7C+Improve+your+life;
-    AI+%7C+Cibersecurity+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&color=840EF7&lines=Hi%21%21%21+I%27m+%20Jose+%20Manuel%21%3B%0AComputer+Science+Student+%7C+Improve+your+life%3B%0AAI+%7C+Cybersecurity+%7C" alt="Typing SVG" />
 </a>
-<br/>
 
 
 <a href="rsrc/RESUME.pdf">
@@ -29,7 +26,7 @@
 </h5> -->
 
 <br/> 
-
+</p>
 <p align="center">
   🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. 🔬
   <br>
