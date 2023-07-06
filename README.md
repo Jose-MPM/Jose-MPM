@@ -41,13 +41,15 @@
   <br>
   :high_brightness: I have already taken my first steps in :bulb: Network Computers, Machine Learning and AI, Cryptology, Compilers and I learned about operating systems by getting my hands on the OS PINTOS.
   <br>
-
+  <br>
   :warning: I know that I can't change the world, change is generational and I'm seek to collaborate on. :checkered_flag:
-  
+  <br>
   <br>
    :diamonds: I’m looking to meet great people. Write me! :gem:
    <br>
+   <br>
    :airplane: I love program and in my live I looking learn all I can, and not only thing related with computer science. 💻
+  <br>
   <br>
   :bulb: Open to collaborating on projects and innovative ideas.
   <br>
@@ -114,9 +116,8 @@
 -->
 
 <details>
-<summary> 📈 ⚡ Statistics ⚡</summary>
+<summary> <h2 align="center">⚡ 📈 My Github Statistics 📈⚡</h2>
 <br>
-📈 My Github Stats 📈
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-MPM&theme=moonlight) 
 
