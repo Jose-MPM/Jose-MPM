@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jose-MPM.Jose-MPM">
 
-<p align="center">
+<div align="center">
+<p>
 <a href="https://github.com/Jose-MPM">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&color=840EF7&lines=Hi%21+I%27m+%20Jose+%20Manuel%21%3B%0AComputer+Science+Student+%7C+Improve+your+life%21%3B%0AAI+%7C+Cybersecurity+%7C" alt="Typing SVG" />
 </a>
@@ -19,20 +20,14 @@
 <a href='https://tryhackme.com/p/Ntory' target="_blank">
     <img alt='TryHackMe' src='https://img.shields.io/badge/TryHackMe-100000?style=flat&logo=TryHackMe&logoColor=white&&color=0181FF'>
 </a>
-<!-- 
-  <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/josé-manuel-pedro-méndez-7097b7215/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/ntoryb/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5> -->
 
 <br/> 
 
 <a href="https://github.com/Jose-MPM">
     <img src="https://github-stats-alpha.vercel.app/api?username=Jose-MPM&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
 </p>
-
+</div>
 
 <p align="center">
   🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. 🔬
