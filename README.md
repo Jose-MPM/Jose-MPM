@@ -1,11 +1,34 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jose-MPM.Jose-MPM">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F724A9&size=35&width=950&lines=Hi!!!+I'm+%20Jose+%20Manuel!;Computer+Science+Student;Improve+your+life)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://github.com/Jose-MPM">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&color=840EF7&lines=Hi!!!+I'm+%20Jose+%20Manuel!;
+    Computer+Science+Student+%7C+Improve+your+life;
+    AI+%7C+Cibersecurity+%7C" alt="Typing SVG" />
+</a>
+<br/>
 
-<h5 align="center">
+
+<a href="rsrc/RESUME.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/ntory/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:jose_manuel@ciencias.unam.mx">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<a href='https://tryhackme.com/p/Ntory' target="_blank">
+    <img alt='TryHackMe' src='https://img.shields.io/badge/TryHackMe-100000?style=flat&logo=TryHackMe&logoColor=white&&color=0181FF'>
+</a>
+<!-- 
+  <h5 align="center">
   <code><a href="https://www.linkedin.com/in/josé-manuel-pedro-méndez-7097b7215/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/ntoryb/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+</h5> -->
+
+<br/> 
 
 <p align="center">
   🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. 🔬
