@@ -30,7 +30,7 @@
 </div>
 
 <p align="center">
-  🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. GPA: **9.47**/10 (86.7%) :telescope:
+  🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. GPA: <strong>9.47</strong>/10 (86.7%) :telescope:
   <br>
   <br>
   🌱 I’m currently improving my English skills and  learning about Network Computers, Neuronal Networks and things related to Web Development and Cibersecurity.  :pushpin:
@@ -41,13 +41,15 @@
   <br>
   :high_brightness: I have already taken my first steps in :bulb: Network Computers, Machine Learning and AI, Cryptology, Compilers and I learned about operating systems by getting my hands on the OS PINTOS.
   <br>
-  I know that I can't change the world, change is generational and I'm seek to collaborate on. 
+
+  :warning: I know that I can't change the world, change is generational and I'm seek to collaborate on. :checkered_flag:
+  
   <br>
    :diamonds: I’m looking to meet great people. Write me! :gem:
    <br>
    :airplane: I love program and in my live I looking learn all I can, and not only thing related with computer science. 💻
   <br>
-  
+  :bulb: Open to collaborating on projects and innovative ideas.
   <br>
 </a>
 </p>
@@ -73,7 +75,23 @@
 </p>
 
 
-<h2 align="center">⚡ Statistics ⚡</h2>
+<h2 align="center">🤓 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algoritgm"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Jose-MPM/Certificates" title="Certificates"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/Jose-MPM?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+<!--
+  <h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -93,22 +111,25 @@
   <br>
 
 </p>
+-->
 
-<h2 align="center">🤓 Repositories 👨‍💻</h2>
+<details>
+<summary> 📈 ⚡ Statistics ⚡</summary>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algoritgm"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Jose-MPM/Certificates" title="Certificates"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br>
+📈 My Github Stats 📈
 
-<h4 align="center">
-  <a href="https://github.com/Jose-MPM?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-MPM&theme=moonlight) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-MPM&theme=moonlight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-MPM&theme=moonlight)
+
+<!-- 
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+-->
+</details>
 
 <hr>
 <h3 align="left">📢 Connect with me 📝:</h3>
