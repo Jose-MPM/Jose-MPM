@@ -1,10 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jose-MPM.Jose-MPM">
 
 <div align="center">
-
 <p>
 <a href="https://github.com/Jose-MPM">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80 color=840EF7&lines=Hi %21 + I%27 m + %20Ntory %3B%0A Computational+Scientist+in+process+of+graduation+%7C%21 %3B%0A AI+%7C+Cybersecurity+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Hi%21+I%27m+%20Jose+%20Manuel%21%3B%0AComputer+Science+Student+%7C+Improve+your+life%21%3B%0AAI+%7C+Cybersecurity+%7C" alt="Typing SVG" />
 </a>
 <br/>
 
