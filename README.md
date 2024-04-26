@@ -3,7 +3,7 @@
 <div align="center">
 <p>
 <a href="https://github.com/Jose-MPM">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Hi%21+I%27m+%20Ntory%21+Currently+in+the+process+of%3B%0Agraduating+as+a+Computational+Scientist%21%3B%0AAI+%7C+Cybersecurity+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Hi%21+I%27m+%20Ntory%21+Currently+in+the+process+of%3B%0Agraduating+as+a+Computational+Scientist%21%3B%0ACybersecurity+%7C+AI+%7C" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -29,31 +29,23 @@
 </p>
 </div>
 
+<h2 align="center">🎓 About Me 🌱</h2>
 <p align="center">
-  🎓 I'm Computer Science Student at Facultad de Ciencias, UNAM. GPA: <strong>9.47</strong>/10 (86.7%) :telescope:
+  🎓 I'm a Computer Science Student at Facultad de Ciencias, UNAM. GPA: <strong>9.47</strong>/10 (86.7%) :telescope:
   <br>
+  🌱 I’m currently improving my English skills and learning about Network Computers, Neural Networks, and things related to Web Development and Cybersecurity. :pushpin:
   <br>
-  🌱 I’m currently improving my English skills and  learning about Network Computers, Neuronal Networks and things related to Web Development and Cibersecurity.  :pushpin:
+  :microscope: I'm eager to learn about AI, robotics, and cybersecurity. :chart_with_upwards_trend:
   <br>
+  :high_brightness: I have already taken my first steps in Network Computers, Machine Learning and AI, Cryptology, Compilers, and I learned about operating systems by getting my hands on the OS PINTOS.
   <br>
-  :microscope: I want to learn about AI, robotics and cybersecurity. :chart_with_upwards_trend:
+  :warning: I know that I can't change the world alone; change is generational, and I seek to collaborate on it. :checkered_flag:
   <br>
-  <br>
-  :high_brightness: I have already taken my first steps in :bulb: Network Computers, Machine Learning and AI, Cryptology, Compilers and I learned about operating systems by getting my hands on the OS PINTOS.
-  <br>
-  <br>
-  :warning: I know that I can't change the world, change is generational and I'm seek to collaborate on. :checkered_flag:
-  <br>
-  <br>
-   :diamonds: I’m looking to meet great people. Write me! :gem:
+   :diamonds: I’m looking to meet great people. Write to me! :gem:
    <br>
-   <br>
-   :airplane: I love program and in my live I looking learn all I can, and not only thing related with computer science. 💻
-  <br>
+   :airplane: I love programming and in my life, I seek to learn all I can, not only things related to computer science. 💻
   <br>
   :bulb: Open to collaborating on projects and innovative ideas.
-  <br>
-</a>
 </p>
 
 
