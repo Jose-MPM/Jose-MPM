@@ -31,25 +31,25 @@
 
 <h2 align="center">🎓 About Me 🌱</h2>
 <p align="center">
-  🎓 I'm a Computer Science Student at Facultad de Ciencias, UNAM. GPA: <strong>9.47</strong>/10 (86.7%) :telescope:
+  🎓 I've finished my degree in Computer Science at Facultad de Ciencias, UNAM. GPA: <strong>9.53</strong>/10 (100.26%) :telescope:
   <br>
-  🌱 I’m currently improving my English skills and learning about Network Computers, Neural Networks, and things related to Web Development and Cybersecurity. :pushpin:
+  🌱 I’m currently improving my English skills and learning about Network Computers, and things related to Cybersecurity and Web Development(My forte is the Back-end but I have full stack skills). :pushpin:
   <br>
-  :microscope: I'm eager to learn about AI, robotics, and cybersecurity. :chart_with_upwards_trend:
+  :microscope: I'm eager to learn about cybersecurity, IoT, and AI. :chart_with_upwards_trend:
   <br>
-  :high_brightness: I have already taken my first steps in Network Computers, Machine Learning and AI, Cryptology, Compilers, and I learned about operating systems by getting my hands on the OS PINTOS.
+  :high_brightness: I have already taken my first steps in Network Computers, Cryptology, Concurrent Computational, and I learned about operating systems by getting my hands on the OS PINTOS, Machine Learning and AI.
   <br>
   :warning: I know that I can't change the world alone; change is generational, and I seek to collaborate on it. :checkered_flag:
   <br>
    :diamonds: I’m looking to meet great people. Write to me! :gem:
    <br>
-   :airplane: I love programming and in my life, I seek to learn all I can, not only things related to computer science. 💻
+   :airplane: I love programming and in my life I'm looking to learn as much as I can, not just things related to computer science. 💻
   <br>
-  :bulb: Open to collaborating on projects and innovative ideas.
+  :bulb: Open to collaborating on projects and innovative ideas. 
 </p>
 
-
 <hr>
+
 <h2 align="center"> 🔥 Programming Languages and Tools 🔥</h2>
 <br>
 <p align="center">
@@ -73,12 +73,15 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
+
   <a align="right" href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algoritgm"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10"></a>
-</div>
+  </div>
+
 <div width="100%" align="center">
   <a align="right" href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  
   <a align="right" href="https://github.com/Jose-MPM/Certificates" title="Certificates"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10"></a>
-</div>
+  </div>
 <br><br><br>
 
 <h4 align="center">
