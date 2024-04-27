@@ -79,7 +79,8 @@
   <a align="right" href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Jose-MPM/Certificates" title="Certificates"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10"></a>
   </div>
-<br><br><br>
+
+<br>
 
 <h4 align="center">
   <a href="https://github.com/Jose-MPM?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
@@ -121,13 +122,15 @@
 Currently Coding & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+
+referencia a IG
+<a href="https://instagram.com/ntoryb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntoryb" height="30" width="40" /></a>
 -->
 </details>
 
 <hr>
 <h3 align="left">📢 Connect with me 📝:</h3>
 <p align="left">
-<a href="https://instagram.com/ntoryb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntoryb" height="30" width="40" /></a>
 
 - 📫 How to reach me: <a href="mailto: jose_manuel@ciencias.unam.mx">jose_manuel@ciencias.unam.mx
 </p>
@@ -136,4 +139,4 @@ Currently Coding & Listening to:
 ## :godmode: Expressions of gratitude 🎁 
 * :+1: Contact and follow me :bowtie::punch:
 ------
-⌨️ with much :purple_heart: by [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️:trollface:
+⌨️ with much :purple_heart: by [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️
