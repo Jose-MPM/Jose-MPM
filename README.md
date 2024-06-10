@@ -67,6 +67,44 @@
   <code><img title="Spring Tools Site 4 " height="25" src="images/spring-4.png"></code>
 </p>
 
+<h2 align="center">🤓 Repositories 👨‍💻</h2>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Jose-MPM/Certificates" title="Certificates">
+          <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Jose-MPM/CyS" title="Cryptology and Cybersecurity">
+          <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=CyS&theme=algolia&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms">
+          <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimum Cost Spanning Forest">
+          <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algorithm">
+          <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h2 align="center">🤓 Repositories 👨‍💻</h2>
 <br>
@@ -80,6 +118,9 @@
   <a align="right" href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10"></a>
 
   <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<div width="100%" align="center">
 
   <a align="right" href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algoritgm"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -87,7 +128,7 @@
 <h4 align="center">
   <a href="https://github.com/Jose-MPM?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<!-- -->
+<!--
   <h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <p align=center>
@@ -108,7 +149,7 @@
   <br>
 
 </p>
-
+-->
 
 <details>
 <summary> <h2 align="center">⚡ 📈 My Github Statistics 📈⚡</h2>
