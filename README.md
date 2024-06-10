@@ -3,7 +3,7 @@
 <div align="center">
 <p>
 <a href="https://github.com/Jose-MPM">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Computer+Scientist+Specializing+In+%3B%0ACYBERSECURITY+looking+to+graduate+with+a+%21%3B%0Aproject+in+this+area+%7CCybersecurity+%7C+AI+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Computer+Scientist+Specializing+In+%3B%0ACYBERSECURITY+looking+to+graduate+with+a+%21%3B%0Aproject+in+this+area+%7C+Cybersecurity+%7C+AI+%7C" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -29,23 +29,22 @@
 </p>
 </div>
 
+<h1 align="center">Hi there! 👋 I'm Ntory</h1>
+<h3 align="center">Aspiring Cybersecurity Specialist | Purple Team Enthusiast</h3>
 <h2 align="center">🎓 About Me 🌱</h2>
 <p align="center">
   🎓 I've finished my degree in Computer Science at Facultad de Ciencias, UNAM. GPA: <strong>9.53</strong>/10 (100.26%) :telescope:
+  <br> 🌱  I'm Currently learning about Cybersecurity, I'm learned about IAM from Cybolt, I'm taking a Cibersecurity training from Cisco :pushpin:
   <br>
-  🌱 I’m currently improving my English skills and learning about Network Computers, and things related to Cybersecurity and Web Development(My forte is the Back-end but I have full stack skills). :pushpin:
+  :microscope: I've proficient knowledge of Web Development but I'm eager to learn about cybersecurity, IoT, and AI. :chart_with_upwards_trend:
   <br>
-  :microscope: I'm eager to learn about cybersecurity, IoT, and AI. :chart_with_upwards_trend:
-  <br>
-  :high_brightness: I have already taken my first steps in Network Computers, Cryptology, Concurrent Computational, and I learned about operating systems by getting my hands on the OS PINTOS, Machine Learning and AI.
+  :high_brightness: I have knowledgeable in Network Computers, Cryptology, Concurrent Computational, and I learned about operating systems by getting my hands on the OS PINTOS, Machine Learning and AI.
   <br>
   :warning: I know that I can't change the world alone; change is generational, and I seek to collaborate on it. :checkered_flag:
   <br>
    :diamonds: I’m looking to meet great people. Write to me! :gem:
    <br>
-   :airplane: I love programming and in my life I'm looking to learn as much as I can, not just things related to computer science. 💻
-  <br>
-  :bulb: Open to collaborating on projects and innovative ideas. 
+   :airplane: I love programming and in my life I'm looking to learn as much as I can, not just things related to computer science. 💻 
 </p>
 
 <hr>
@@ -72,12 +71,16 @@
 <h2 align="center">🤓 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algoritgm"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Jose-MPM/Certificates" title="Certificates"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10"></a>
+
+  <a align="right" href="https://github.com/Jose-MPM/CyS" title="Cryptology and Cibersecurity"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Cryptology and Cibersecurity&theme=algolia&border_color=61dafb&border_radius=10"></a>
   </div>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Jose-MPM/Certificates" title="Certificates"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10"></a>
+
+  <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algoritgm"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10"></a>
   </div>
 
 <br>
