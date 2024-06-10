@@ -30,19 +30,19 @@
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Ntory</h1>
-<h3 align="center">Aspiring Cybersecurity Specialist | Purple Team Enthusiast</h3>
+<h3 align="center">🎓 I've finished my degree in Computer Science at Facultad de Ciencias, UNAM. GPA: <strong>9.53</strong>/10 (100.26%) :telescope:</h3>
+<h3 align="center">🎓 Aspiring Cybersecurity Specialist | Purple Team Enthusiast</h3>
 <h2 align="center">🎓 About Me 🌱</h2>
 <p align="center">
-  🎓 I've finished my degree in Computer Science at Facultad de Ciencias, UNAM. GPA: <strong>9.53</strong>/10 (100.26%) :telescope:
-  <br> 🌱  I'm Currently learning about Cybersecurity, I'm learned about IAM from Cybolt, I'm taking a Cibersecurity training from Cisco :pushpin:
+  <br> 🌱  I'm Currently learning about Cybersecurity, I'm learned about IAM from Cybolt, I'm taking a Cibersecurity training from Cisco :pushpin:<br>
   <br>
-  :microscope: I've proficient knowledge of Web Development but I'm eager to learn about cybersecurity, IoT, and AI. :chart_with_upwards_trend:
+  :microscope: I've proficient knowledge of Web Development but I'm eager to learn about cybersecurity, IoT, and AI. :chart_with_upwards_trend:<br>
   <br>
-  :high_brightness: I have knowledgeable in Network Computers, Cryptology, Concurrent Computational, and I learned about operating systems by getting my hands on the OS PINTOS, Machine Learning and AI.
+  :high_brightness: I have knowledgeable in Network Computers, Cryptology, Concurrent Computational, and I learned about operating systems by getting my hands on the OS PINTOS, Machine Learning and AI.<br>
   <br>
-  :warning: I know that I can't change the world alone; change is generational, and I seek to collaborate on it. :checkered_flag:
+  :warning: I know that I can't change the world alone; change is generational, and I seek to collaborate on it. :checkered_flag:<br>
   <br>
-   :diamonds: I’m looking to meet great people. Write to me! :gem:
+   :diamonds: I’m looking to meet great people. Write to me! :gem:<br>
    <br>
    :airplane: I love programming and in my life I'm looking to learn as much as I can, not just things related to computer science. 💻 
 </p>
@@ -103,26 +103,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-
-<h2 align="center">🤓 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Jose-MPM/Certificates" title="Certificates"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=Certificates&theme=algolia&border_color=61dafb&border_radius=10"></a>
-
-  <a align="right" href="https://github.com/Jose-MPM/CyS" title="Cryptology and Cibersecurity"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=CyS&theme=algolia&border_color=61dafb&border_radius=10"></a>
-
-</div>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Jose-MPM/VisualizationOfSortingAlgorithms" title="Visualization Of Sorting Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=VisualizationOfSortingAlgorithms&theme=algolia&border_color=61dafb&border_radius=10"></a>
-
-  <a align="left" href="https://github.com/Jose-MPM/MinimumCostSpaningForest" title="Minimun Cost Spaning Forest"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=MinimumCostSpaningForest&theme=algolia&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<div width="100%" align="center">
-
-  <a align="right" href="https://github.com/Jose-MPM/-Cobblestone-Algorithm" title="Cobblestone Algoritgm"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-MPM&repo=-Cobblestone-Algorithm&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <h4 align="center">
