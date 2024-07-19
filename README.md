@@ -3,11 +3,11 @@
 <div align="center">
 <p>
 <a href="https://github.com/Jose-MPM">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Computer+Scientist+Specializing+In+%3B%0ACYBERSECURITY+looking+to+graduate+with+a+%21%3B%0Aproject+in+this+area+%7C+Cybersecurity+%7C+AI+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=100&multiline=true&width=400&height=80&color=840EF7&lines=Computer+Scientist+Specializing+In+%3B%0ACYBERSECURITY+%7C+Cybersecurity+%7C+AI+%7C" alt="Typing SVG" />
 </a>
 <br/>
 
-<a href="rsrc/RESUME.pdf">
+<a href="rsrc/RESUME.jpg">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/ntory/">
@@ -34,11 +34,15 @@
 <h3 align="center">🎓 Aspiring Cybersecurity Specialist | Purple Team Enthusiast</h3>
 <h2 align="center">🎓 About Me 🌱</h2>
 <p align="center">
-  <br> 🌱  I'm Currently learning about Cybersecurity, I'm learned about IAM from Cybolt, I'm taking a Cibersecurity training from Cisco :pushpin:<br>
+  <br> 🌱  Computer Science with a strong academic background as the ELITE student I was with practice programming experience, proficient in programming(algorithms and OOP), experienced in full stack development and knowledgeable in cibersecurity and cryptology, OS and computer networks. Currently specializing in cybersecurity, looking to graduate with a project in this area because I want to do a master on this area, I want to be a part of a purple team. Also knowledgeble in AI, pattern recognition, ML and neuronal networks.<br>
+  <br>
+  Known for my strong analytical skills, problem solving, teamwork and effective communication but mainly for me eagerness to learn and grown every day.<br>
+  <br>
+  I'm taking a Ethical Hacking training by Cisco :pushpin: and a scholarship-awarded course Cibersecurity 2024 by Google.<br>
   <br>
   :microscope: I've proficient knowledge of Web Development but I'm eager to learn about cybersecurity, IoT, and AI. :chart_with_upwards_trend:<br>
   <br>
-  :high_brightness: I have knowledgeable in Network Computers, Cryptology, Concurrent Computational, and I learned about operating systems by getting my hands on the OS PINTOS, Machine Learning and AI.<br>
+  :high_brightness: I have knowledgeable in Cryptology & Cibersecurity, IoT and Network Computers,, Concurrent Computational, and I learned about operating systems by getting my hands on the OS PINTOS, Machine Learning and AI.<br>
   <br>
   :warning: I know that I can't change the world alone; change is generational, and I seek to collaborate on it. :checkered_flag:<br>
   <br>
